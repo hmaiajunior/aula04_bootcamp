@@ -19,11 +19,5 @@
 
 # Listas e dicionários são estruturas de dados versáteis que permitem armazenar e manipular coleções de dados de forma eficiente. Na engenharia de dados, essas estruturas são fundamentais para organizar dados coletados de diversas fontes, facilitando operações como filtragem, busca, agregação e transformação de dados.
 
-# Exercícios
 
-# 01 - Crie uma lista com os números de 1 a 10 e use um loop para imprimir cada número elevado ao quadrado.
 
-numeros = list(range(1,11))
-
-for i in numeros:
-    print(i ** 2)
